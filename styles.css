@@ -650,7 +650,6 @@ button:disabled{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: 'Cursive', sans-serif;
     font-size: 1.2rem;
     color: var(--text-color-primary);
     text-align: center;
@@ -803,7 +802,7 @@ button:disabled{
     .notification-div{
         position: absolute;
         z-index: 1100;
-        top: 300px;
+        top:100% ;
         right: 0;
         background-color: #0056b3;
         width: 50%;
