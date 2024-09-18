@@ -1,0 +1,21 @@
+{
+    "name": "Heartfelt Insight",
+    "short_name": "Relationships",
+    "icons": [
+      {
+        "src": "icons/logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icons/logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFC0CB",
+    "theme_color": "#ff69b4"
+  }
+  

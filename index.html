@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heartfelt Insight</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="shortcut icon" href="logo.png" type="image/x-icon">
+</head>
+<body>
+    <!--Header section-->
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="logo">
+        </div>
+        <h1>Heartfelt Insights <span>(love affair)</span></h1>
+        <div class="button-div" id="button-div">
+            <button id="install-button">Get App</button>
+        </div>
+    </header>
+
+    <!-------------------------------------------------------->
+
+
+    <!--Main content-->
+
+    <div class="container">
+       <div class="question-div"></div>
+
+       <div class="choices-div"></div>
+
+       <div class="button-container">
+            <button><i class="fa-solid fa-arrow-right"></i> Next</button>
+            <button><i class="fa-solid fa-arrow-left"></i> Previous</button>
+            <button><i class="fa-solid fa-quote"></i> Quotes</button>
+            <button><i class="fa-solid fa-clipboard"></i>Copy question</button>  
+            <button><i class="fa-solid fa-clipboard"></i>Copy question & option</button>    
+        </div>
+
+    </div>
+
+    <!--Quote  overlay -->
+
+    <div class="quote-overlay">
+        <div class="quote-close"><span>&times;</span></div>
+        <div class="quote-content">
+            <div class="quote-div"></div>
+            <div class="button-container">
+                <button>Another quotes</button>
+                <button><i class="fa-solid fa-clipboard"></i>Copy quote</button> 
+                <button> Close</button> 
+            </div>
+        </div>
+    </div>
+
+    <div class="answer-overlay">
+        <div class="answer-close"><span>&times;</span></div>
+            <div class="answer-content">
+                <div class="answer-div"></div>
+                <div class="note-div"></div>
+                <div class="button-container">
+                    <button> Close</button> 
+                </div>
+            </div>
+       </div>
+    </div>
+
+
+    <div class="notification-div">
+        <div class="notification-close"><span>&times;</span></div>
+        <div class="notification-message"></div>
+    </div>
+
+    <div class="welcome-overlay">
+        <div class="close-welcome"><span>&times;</span></div>
+        <div class="welcome-intro" id="welcomeIntro">
+            <div class="message">
+                <h2>Welcome to Heartfelt Insight</h2>
+                <p>Relationships are the essence of beauty, perseverance, and true existence. Cherish every moment and let love guide your path.</p>
+                <p>Embrace the journey, for it is filled with lessons and growth.</p>
+                <p>Every challenge is an opportunity to become stronger and wiser.</p>
+                <p>Love and kindness are the keys to a fulfilling life.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js" defer></script>
+</body>
+</html>

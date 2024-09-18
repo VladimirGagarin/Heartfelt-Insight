@@ -1,0 +1,741 @@
+{
+    "questions": [
+        {
+            "question": "How comfortable are you with expressing your feelings, even when they might cause conflict?",
+            "options": {
+                "A": "Very comfortable",
+                "B": "Somewhat comfortable",
+                "C": "Not very comfortable",
+                "D": "Not comfortable at all"
+            },
+            "answer": "A",
+            "note": "Being able to express feelings openly is key to maintaining honest communication in a relationship."
+        },
+        {
+            "question": "Can you fully trust someone without constantly needing reassurance?",
+            "options": {
+                "A": "Always",
+                "B": "Sometimes",
+                "C": "Rarely",
+                "D": "Never"
+            },
+            "answer": "B",
+            "note": "It's natural to seek some reassurance, but building a foundation of trust should minimize the need for constant validation."
+        },
+        {
+            "question": "How do you usually handle disagreements or arguments?",
+            "options": {
+                "A": "I calmly talk it through",
+                "B": "I try to avoid arguments",
+                "C": "I get emotional but resolve it quickly",
+                "D": "I struggle to handle conflict"
+            },
+            "answer": "B",
+            "note": "Avoiding arguments can help maintain peace, but addressing issues directly is often better for long-term relationship health."
+        },
+        {
+            "question": "Do you feel comfortable maintaining your own hobbies, friendships, and identity outside of a relationship?",
+            "options": {
+                "A": "Yes, I value my independence",
+                "B": "I try, but it can be hard",
+                "C": "I tend to focus on the relationship more",
+                "D": "I lose track of my individuality"
+            },
+            "answer": "B",
+            "note": "It's important to balance individual interests and the relationship, even though it may sometimes be challenging."
+        },
+        {
+            "question": "How willing are you to compromise for the sake of the relationship?",
+            "options": {
+                "A": "Very willing",
+                "B": "Somewhat willing",
+                "C": "Only for big things",
+                "D": "Not willing at all"
+            },
+            "answer": "A",
+            "note": "Willingness to compromise shows flexibility and a desire to meet your partner's needs, which strengthens the relationship."
+        },
+        {
+            "question": "How important is emotional support from your partner?",
+            "options": {
+                "A": "Extremely important",
+                "B": "Somewhat important",
+                "C": "Not that important",
+                "D": "Not important at all"
+            },
+            "answer": "A",
+            "note": "Emotional support is the backbone of a healthy relationship, ensuring both partners feel understood and valued."
+        },
+        {
+            "question": "How easy is it for you to forgive after a misunderstanding or mistake?",
+            "options": {
+                "A": "Very easy",
+                "B": "Depends on the situation",
+                "C": "Not very easy",
+                "D": "Extremely difficult"
+            },
+            "answer": "B",
+            "note": "Forgiveness depends on the severity of the issue, but being open to it shows emotional maturity and a willingness to move forward."
+        },
+        {
+            "question": "Are you clear on your relationship boundaries and able to communicate them?",
+            "options": {
+                "A": "Yes, very clear",
+                "B": "Mostly clear",
+                "C": "Sometimes struggle to communicate",
+                "D": "Not clear at all"
+            },
+            "answer": "A",
+            "note": "Having clear boundaries and communicating them is crucial for mutual respect and understanding in any relationship."
+        },
+        {
+            "question": "How easy is it for you to forgive after a misunderstanding or mistake?",
+            "options": {
+                "A": "Very easy",
+                "B": "Depends on the situation",
+                "C": "Not very easy",
+                "D": "Extremely difficult"
+            },
+            "answer": "B",
+            "note": "Forgiveness depends on the severity of the issue, but being open to it shows emotional maturity and a willingness to move forward."
+        },
+        {
+            "question": "How do you handle feelings of jealousy in a relationship?",
+            "options": {
+                "A": "I communicate openly about it",
+                "B": "I try to manage it internally",
+                "C": "I get upset but don’t talk about it",
+                "D": "I let it build up and cause issues"
+            },
+            "answer": "A",
+            "note": "Open communication about jealousy prevents misunderstandings and helps strengthen trust between partners."
+        },
+        {
+            "question": "How do you react when your partner doesn't agree with you on something important?",
+            "options": {
+                "A": "I calmly discuss it and try to understand their perspective",
+                "B": "I feel frustrated but eventually talk it through",
+                "C": "I get upset and distance myself",
+                "D": "I avoid the topic altogether"
+            },
+            "answer": "A",
+            "note": "Discussing disagreements calmly ensures both sides are heard and promotes a healthy resolution."
+        },
+        {
+            "question": "How often do you apologize when you realize you were wrong?",
+            "options": {
+                "A": "Always, I believe in owning up to mistakes",
+                "B": "Sometimes, but it depends on the situation",
+                "C": "Rarely, I find it hard to apologize",
+                "D": "Never, I avoid admitting fault"
+            },
+            "answer": "A",
+            "note": "Apologizing when wrong shows emotional maturity and contributes to resolving conflicts in a respectful manner."
+        },
+        {
+            "question": "How do you feel about giving your partner space after an argument?",
+            "options": {
+                "A": "I’m comfortable giving them space to cool off",
+                "B": "I prefer to resolve the issue immediately",
+                "C": "I feel anxious and need reassurance right away",
+                "D": "I avoid resolving it and let things linger"
+            },
+            "answer": "A",
+            "note": "Giving space when needed shows respect for emotional boundaries and can lead to more thoughtful resolutions."
+        },
+        {
+            "question": "How do you approach misunderstandings when you're the one at fault?",
+            "options": {
+                "A": "I acknowledge my mistake and work to fix it",
+                "B": "I try to explain myself but feel defensive",
+                "C": "I avoid taking responsibility",
+                "D": "I wait for my partner to bring it up"
+            },
+            "answer": "A",
+            "note": "Acknowledging fault and taking steps to resolve the issue shows accountability and commitment to the relationship."
+        },
+        {
+            "question": "How do you typically handle unexpected challenges in your relationship?",
+            "options": {
+                "A": "I approach them with open communication and problem-solving",
+                "B": "I try to deal with them on my own first before involving my partner",
+                "C": "I seek advice from friends or family before discussing it with my partner",
+                "D": "I prefer to avoid discussing the challenge until it becomes unavoidable"
+            },
+            "answer": "C",
+            "note": "Seeking advice from trusted sources before discussing challenges with your partner can provide valuable perspectives and enhance resolution."
+        },
+        {
+            "question": "When you and your partner have different priorities, how do you find a resolution?",
+            "options": {
+                "A": "We discuss our priorities and seek a compromise that works for both",
+                "B": "We each pursue our priorities separately and try to balance them",
+                "C": "We sometimes put one person's priority first and address the other later",
+                "D": "We avoid discussing priorities to prevent conflict"
+            },
+            "answer": "B",
+            "note": "Balancing separate priorities can help maintain harmony while respecting individual needs, though open discussions are also crucial."
+        },
+        {
+            "question": "How do you feel about taking risks or trying new things together as a couple?",
+            "options": {
+                "A": "I embrace new experiences and believe they strengthen our bond",
+                "B": "I’m open to trying new things but prefer to keep it within our comfort zone",
+                "C": "I’m hesitant to take risks but will occasionally make an effort",
+                "D": "I prefer to stick to familiar routines and avoid risks"
+            },
+            "answer": "D",
+            "note": "Sticking to familiar routines can provide stability, but occasionally stepping out of your comfort zone can invigorate the relationship."
+        },
+        {
+            "question": "How do you navigate differences in your communication styles?",
+            "options": {
+                "A": "We discuss our communication styles and adapt to each other's needs",
+                "B": "I try to adjust my style to match my partner’s, even if it feels uncomfortable",
+                "C": "We have occasional misunderstandings but manage to work through them",
+                "D": "I find it challenging to understand my partner’s communication style"
+            },
+            "answer": "C",
+            "note": "Working through occasional misunderstandings can improve communication and build mutual understanding over time."
+        },
+        {
+            "question": "How do you maintain intimacy and connection during busy or stressful periods?",
+            "options": {
+                "A": "We make a conscious effort to schedule quality time together despite our busy schedules",
+                "B": "We rely on small gestures and brief moments to stay connected",
+                "C": "We sometimes struggle to maintain intimacy but try to reconnect when possible",
+                "D": "We let our busy schedules take precedence and address intimacy later"
+            },
+            "answer": "A",
+            "note": "Scheduling quality time together even during busy periods helps keep the connection strong and shows commitment to the relationship."
+        },
+        {
+            "question": "How do you approach setting and achieving shared goals as a couple?",
+            "options": {
+                "A": "We set specific, achievable goals together and regularly review our progress",
+                "B": "We set general goals and work towards them individually",
+                "C": "We have goals but struggle to coordinate our efforts effectively",
+                "D": "We rarely set shared goals and focus on individual aspirations"
+            },
+            "answer": "C",
+            "note": "Struggling to coordinate efforts on shared goals can be a learning experience, leading to better collaboration and understanding."
+        },
+        {
+            "question": "When faced with a disagreement, how do you ensure that both partners feel heard and understood?",
+            "options": {
+                "A": "We actively listen to each other and seek to understand differing perspectives",
+                "B": "We take turns speaking and make sure to acknowledge each other’s points of view",
+                "C": "We discuss the issue but sometimes focus more on our own perspectives",
+                "D": "We avoid addressing disagreements to prevent escalation"
+            },
+            "answer": "B",
+            "note": "Taking turns to speak and acknowledging each other’s views helps ensure both partners feel heard and fosters a fair resolution."
+        },
+        {
+            "question": "How do you manage personal growth while maintaining a healthy relationship?",
+            "options": {
+                "A": "We support each other's personal growth and celebrate individual achievements",
+                "B": "I focus on personal growth but ensure it doesn’t negatively impact the relationship",
+                "C": "We sometimes struggle to balance personal growth with relationship needs",
+                "D": "I prioritize the relationship over personal growth"
+            },
+            "answer": "A",
+            "note": "Supporting each other’s personal growth while celebrating achievements enhances both the relationship and individual fulfillment."
+        },
+        {
+            "question": "How do you handle situations where you have different expectations about the future?",
+            "options": {
+                "A": "We have open discussions to align our expectations and find common ground",
+                "B": "We acknowledge our differences but work towards a compromise",
+                "C": "We each pursue our own expectations and hope to find a middle ground later",
+                "D": "We avoid discussing future expectations to prevent conflict"
+            },
+            "answer": "B",
+            "note": "Acknowledging differences and working towards a compromise helps align future expectations and maintain a shared vision."
+        },
+        {
+            "question": "How do you show appreciation for the little things your partner does for you?",
+            "options": {
+                "A": "I make it a habit to express gratitude for even the small gestures",
+                "B": "I occasionally acknowledge their efforts but may overlook small things",
+                "C": "I focus on major gestures and sometimes forget to appreciate the little things",
+                "D": "I rarely express appreciation for daily actions"
+            },
+            "answer": "A",
+            "note": "Regularly expressing gratitude for small gestures reinforces the value of everyday actions and strengthens emotional bonds."
+        },
+        {
+            "question": "How do you ensure that both partners have equal opportunities to express their needs and desires?",
+            "options": {
+                "A": "We create an open environment where both partners can freely share their needs and desires",
+                "B": "We take turns discussing our needs but sometimes one partner’s needs dominate",
+                "C": "We address needs and desires on a case-by-case basis, which can lead to imbalances",
+                "D": "We tend to focus more on one partner’s needs, often neglecting the other’s"
+            },
+            "answer": "C",
+            "note": "Addressing needs and desires on a case-by-case basis can lead to imbalances, but striving for equal opportunities promotes fairness and respect."
+        },
+        {
+            "question": "How do you handle feelings of jealousy in a relationship?",
+            "options": {
+                "A": "I communicate openly about it",
+                "B": "I try to manage it internally",
+                "C": "I get upset but don’t talk about it",
+                "D": "I let it build up and cause issues"
+            },
+            "answer": "A",
+            "note": "Open communication is key to addressing and resolving feelings of jealousy."
+        },
+        {
+            "question": "How comfortable are you with expressing your feelings, even when they might cause conflict?",
+            "options": {
+                "A": "Very comfortable",
+                "B": "Somewhat comfortable",
+                "C": "Not very comfortable",
+                "D": "Not comfortable at all"
+            },
+            "answer": "A",
+            "note": "Being able to express feelings openly is key to maintaining honest communication in a relationship."
+        },
+        {
+            "question": "Can you fully trust someone without constantly needing reassurance?",
+            "options": {
+                "A": "Always",
+                "B": "Sometimes",
+                "C": "Rarely",
+                "D": "Never"
+            },
+            "answer": "B",
+            "note": "It's natural to seek some reassurance, but building a foundation of trust should minimize the need for constant validation."
+        },
+        {
+            "question": "How do you usually handle disagreements or arguments?",
+            "options": {
+                "A": "I calmly talk it through",
+                "B": "I try to avoid arguments",
+                "C": "I get emotional but resolve it quickly",
+                "D": "I struggle to handle conflict"
+            },
+            "answer": "A",
+            "note": "Calmly talking through disagreements helps in resolving conflicts effectively."
+        },
+        {
+            "question": "Are you clear on your relationship boundaries and able to communicate them?",
+            "options": {
+                "A": "Yes, very clear",
+                "B": "Mostly clear",
+                "C": "Sometimes struggle to communicate",
+                "D": "Not clear at all"
+            },
+            "answer": "A",
+            "note": "Having clear boundaries and communicating them is essential for a healthy relationship."
+        },
+        {
+            "question": "How do you support your partner during tough times?",
+            "options": {
+                "A": "I listen and offer help",
+                "B": "I try to distract them",
+                "C": "I give them space",
+                "D": "I struggle to know what to do"
+            },
+            "answer": "A",
+            "note": "Listening and offering help shows empathy and support."
+        },
+        {
+            "question": "How do you handle your partner's flaws?",
+            "options": {
+                "A": "I accept them",
+                "B": "I try to change them",
+                "C": "I ignore them",
+                "D": "I get frustrated"
+            },
+            "answer": "A",
+            "note": "Accepting your partner's flaws is crucial for a loving relationship."
+        },
+        {
+            "question": "How do you keep the romance alive in your relationship?",
+            "options": {
+                "A": "Regular date nights",
+                "B": "Surprise gestures",
+                "C": "Open communication",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "A combination of efforts helps in keeping the romance alive."
+        },
+        {
+            "question": "How do you handle long-distance relationships?",
+            "options": {
+                "A": "Frequent communication",
+                "B": "Trust and independence",
+                "C": "Regular visits",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Combining frequent communication, trust, and regular visits can help maintain a long-distance relationship."
+        },
+        {
+            "question": "How do you show appreciation to your partner?",
+            "options": {
+                "A": "Verbal affirmations",
+                "B": "Acts of service",
+                "C": "Gifts",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Showing appreciation in various ways strengthens the relationship."
+        },
+        {
+            "question": "How do you handle financial disagreements in a relationship?",
+            "options": {
+                "A": "Open discussions",
+                "B": "Compromise",
+                "C": "Separate finances",
+                "D": "Avoid the topic"
+            },
+            "answer": "A",
+            "note": "Open discussions about finances help in resolving disagreements."
+        },
+        {
+            "question": "How do you balance personal space and togetherness in a relationship?",
+            "options": {
+                "A": "Clear boundaries",
+                "B": "Scheduled alone time",
+                "C": "Open communication",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Balancing personal space and togetherness is key to a healthy relationship."
+        },
+        {
+            "question": "How do you handle differences in values or beliefs?",
+            "options": {
+                "A": "Respect and understanding",
+                "B": "Compromise",
+                "C": "Avoid the topic",
+                "D": "Try to change each other"
+            },
+            "answer": "A",
+            "note": "Respecting and understanding differences is crucial for harmony."
+        },
+        {
+            "question": "How do you support your partner's personal growth?",
+            "options": {
+                "A": "Encouragement",
+                "B": "Constructive feedback",
+                "C": "Celebrating achievements",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Supporting personal growth strengthens the relationship."
+        },
+        {
+            "question": "How do you handle past relationship baggage?",
+            "options": {
+                "A": "Open communication",
+                "B": "Therapy or counseling",
+                "C": "Patience and understanding",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Addressing past relationship baggage openly helps in building a stronger future together."
+        },
+        {
+            "question": "How do you maintain individuality in a relationship?",
+            "options": {
+                "A": "Pursuing personal interests",
+                "B": "Maintaining friendships",
+                "C": "Setting personal goals",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Maintaining individuality is important for a balanced relationship."
+        },
+        {
+            "question": "How do you handle misunderstandings in a relationship?",
+            "options": {
+                "A": "Clarify and discuss",
+                "B": "Apologize if needed",
+                "C": "Listen actively",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Handling misunderstandings with clarity and active listening helps in resolving conflicts."
+        },
+        {
+            "question": "How do you keep the excitement alive in a long-term relationship?",
+            "options": {
+                "A": "Trying new activities together",
+                "B": "Surprise dates",
+                "C": "Traveling together",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Keeping the excitement alive involves trying new things and spending quality time together."
+        },
+        {
+            "question": "How do you handle differences in communication styles?",
+            "options": {
+                "A": "Adapt and understand",
+                "B": "Seek common ground",
+                "C": "Be patient",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Adapting to different communication styles helps in better understanding each other."
+        },
+        {
+            "question": "How do you ensure mutual respect in a relationship?",
+            "options": {
+                "A": "Listening actively",
+                "B": "Valuing each other's opinions",
+                "C": "Showing appreciation",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Ensuring mutual respect involves listening, valuing opinions, and showing appreciation."
+        },
+        {
+            "question": "How do you handle misunderstandings in a relationship?",
+            "options": {
+                "A": "Clarify and discuss immediately",
+                "B": "Take some time to cool off before addressing",
+                "C": "Ignore and hope it resolves itself",
+                "D": "Seek advice from a trusted friend"
+            },
+            "answer": "A",
+            "note": "Clarifying and discussing misunderstandings promptly helps prevent them from escalating."
+        },
+        {
+            "question": "What do you believe is the key to maintaining a long-term relationship?",
+            "options": {
+                "A": "Constant communication",
+                "B": "Shared goals and values",
+                "C": "Regular date nights",
+                "D": "Mutual respect and trust"
+            },
+            "answer": "D",
+            "note": "Mutual respect and trust form the foundation of a strong, long-term relationship."
+        },
+        {
+            "question": "How do you support your partner's dreams and ambitions?",
+            "options": {
+                "A": "Encourage and motivate them",
+                "B": "Help them plan and set goals",
+                "C": "Celebrate their achievements",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Supporting your partner's dreams involves encouragement, planning, and celebrating their successes."
+        },
+        {
+            "question": "How do you handle differences in opinions or beliefs?",
+            "options": {
+                "A": "Respectfully discuss and find common ground",
+                "B": "Agree to disagree",
+                "C": "Avoid discussing sensitive topics",
+                "D": "Try to convince the other person"
+            },
+            "answer": "A",
+            "note": "Respectful discussions and finding common ground help in managing differences."
+        },
+        {
+            "question": "How do you keep the spark alive in your relationship?",
+            "options": {
+                "A": "Surprise gestures and gifts",
+                "B": "Spending quality time together",
+                "C": "Trying new activities together",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Keeping the spark alive involves a mix of surprises, quality time, and new experiences."
+        },
+        {
+            "question": "How do you handle stress and pressure in your relationship?",
+            "options": {
+                "A": "Communicate openly about it",
+                "B": "Find healthy coping mechanisms together",
+                "C": "Take breaks and give each other space",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Handling stress involves open communication, healthy coping mechanisms, and sometimes taking breaks."
+        },
+        {
+            "question": "How do you ensure that both partners feel valued and appreciated?",
+            "options": {
+                "A": "Regularly express gratitude",
+                "B": "Show affection and care",
+                "C": "Listen actively and attentively",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Ensuring both partners feel valued involves expressing gratitude, showing affection, and active listening."
+        },
+        {
+            "question": "How do you navigate major life changes together?",
+            "options": {
+                "A": "Plan and prepare together",
+                "B": "Support each other emotionally",
+                "C": "Stay flexible and adaptable",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Navigating major life changes requires planning, emotional support, and adaptability."
+        },
+        {
+            "question": "How do you balance individual needs with the needs of the relationship?",
+            "options": {
+                "A": "Communicate openly about needs",
+                "B": "Compromise and find balance",
+                "C": "Prioritize the relationship over individual needs",
+                "D": "Take turns focusing on each other's needs"
+            },
+            "answer": "B",
+            "note": "Balancing individual and relationship needs involves open communication and compromise."
+        },
+        {
+            "question": "How do you handle conflicts that arise from different communication styles?",
+            "options": {
+                "A": "Adapt and find a middle ground",
+                "B": "Seek to understand each other's styles",
+                "C": "Use a mediator if necessary",
+                "D": "All of the above"
+            },
+            "answer": "D",
+            "note": "Handling conflicts from different communication styles involves adaptation, understanding, and sometimes mediation."
+        },
+        {
+            "question": "When it comes to expressing your love, which gesture feels most meaningful to you?",
+            "options": {
+                "A": "Thoughtful surprises that show you’ve been listening",
+                "B": "Words of affirmation and deep, heartfelt conversations",
+                "C": "Acts of service that demonstrate care and commitment",
+                "D": "Quality time spent together, away from distractions"
+            },
+            "answer": "A",
+            "note": "Thoughtful surprises can be a powerful way to show love and appreciation, making your partner feel truly valued and understood."
+        },
+        {
+            "question": "How do you balance maintaining your individuality with building a life together?",
+            "options": {
+                "A": "We support each other’s individual passions and interests while building shared experiences",
+                "B": "I try to integrate my hobbies into our life together",
+                "C": "We make time for individual activities but prioritize our shared moments",
+                "D": "I focus more on our life together and sometimes neglect my personal interests"
+            },
+            "answer": "C",
+            "note": "Balancing personal activities with shared experiences can strengthen your relationship while ensuring both partners feel fulfilled individually."
+        },
+        {
+            "question": "How do you handle moments when you feel overwhelmed by relationship expectations?",
+            "options": {
+                "A": "I communicate my feelings openly and seek mutual understanding",
+                "B": "I take time to reflect and then discuss my concerns with my partner",
+                "C": "I try to manage my feelings privately and only share when absolutely necessary",
+                "D": "I avoid discussing my feelings to prevent adding stress to the relationship"
+            },
+            "answer": "B",
+            "note": "Taking time to reflect before discussing overwhelming feelings can lead to more thoughtful conversations and a deeper mutual understanding."
+        },
+        {
+            "question": "How do you incorporate romance into your everyday life without it feeling forced?",
+            "options": {
+                "A": "I find small, spontaneous ways to show affection and appreciation regularly",
+                "B": "We plan occasional romantic dates to keep the spark alive",
+                "C": "We have specific rituals or routines that include romantic gestures",
+                "D": "I focus on grand gestures to make up for less frequent small acts"
+            },
+            "answer": "A",
+            "note": "Spontaneous acts of affection can keep romance fresh and genuine, helping to maintain a strong emotional connection."
+        },
+        {
+            "question": "How do you ensure both partners’ needs are met when planning special occasions or celebrations?",
+            "options": {
+                "A": "We collaboratively plan and incorporate each other’s preferences and wishes",
+                "B": "I take the lead on planning and try to include my partner’s input",
+                "C": "We compromise by alternating who takes the lead on different occasions",
+                "D": "I focus on creating a memorable experience, even if it means not meeting all of my partner’s wishes"
+            },
+            "answer": "A",
+            "note": "Collaborative planning for special occasions ensures that both partners’ needs and desires are considered, leading to more meaningful celebrations."
+        },
+        {
+            "question": "What role does emotional vulnerability play in your relationship, and how do you foster it?",
+            "options": {
+                "A": "We encourage each other to be open and honest about our emotions and fears",
+                "B": "I try to express vulnerability gradually and build trust over time",
+                "C": "We focus on sharing positive experiences rather than discussing deeper emotions",
+                "D": "I find it difficult to be emotionally vulnerable and prefer to keep certain feelings private"
+            },
+            "answer": "A",
+            "note": "Encouraging emotional vulnerability builds a deeper connection and trust, creating a safe space for both partners to share their true selves."
+        },
+        {
+            "question": "How do you handle and resolve conflicts when they involve deep-seated personal values or beliefs?",
+            "options": {
+                "A": "We approach conflicts with respect and seek common ground while honoring each other’s values",
+                "B": "We discuss our values openly and work towards understanding each other’s perspectives",
+                "C": "We agree to disagree and focus on maintaining harmony rather than resolving the difference",
+                "D": "We avoid discussing deeply personal values to prevent conflict"
+            },
+            "answer": "B",
+            "note": "Open discussions about personal values and beliefs promote understanding and respect, helping to resolve conflicts more constructively."
+        },
+        {
+            "question": "What does emotional intimacy mean to you, and how do you nurture it in your relationship?",
+            "options": {
+                "A": "Sharing personal dreams and fears regularly to deepen our connection",
+                "B": "Engaging in activities that foster closeness and shared experiences",
+                "C": "Maintaining an open line of communication about our emotional states",
+                "D": "Focusing on physical closeness as a primary means of emotional bonding"
+            },
+            "answer": "A",
+            "note": "Sharing personal dreams and fears fosters a deeper emotional connection, enriching the relationship with trust and understanding."
+        },
+        {
+            "question": "How do you balance your personal goals with the aspirations you have as a couple?",
+            "options": {
+                "A": "We set shared goals while also supporting each other’s individual aspirations",
+                "B": "I prioritize our shared goals and adjust my personal ambitions accordingly",
+                "C": "We work towards individual goals separately but come together to support each other’s progress",
+                "D": "I focus more on my personal goals and address shared aspirations as they come up"
+            },
+            "answer": "A",
+            "note": "Balancing personal and shared goals fosters a supportive environment where both partners can achieve their dreams while growing together."
+        },
+        {
+            "question": "What role does spontaneity play in keeping the relationship exciting and fresh?",
+            "options": {
+                "A": "We regularly incorporate spontaneous activities and surprises to keep the relationship vibrant",
+                "B": "I plan occasional spontaneous events to add excitement to our routine",
+                "C": "We maintain a structured routine and occasionally introduce new elements",
+                "D": "I find that planned events work better for maintaining excitement"
+            },
+            "answer": "A",
+            "note": "Regularly incorporating spontaneity into the relationship keeps it dynamic and engaging, ensuring that both partners stay excited and connected."
+        },
+        {
+            "question": "How do you handle moments when one partner is feeling particularly stressed or overwhelmed?",
+            "options": {
+                "A": "We offer each other support and create a calming environment to alleviate stress",
+                "B": "I try to lighten their load by taking on extra responsibilities",
+                "C": "We discuss the stress openly and find ways to manage it together",
+                "D": "I give them space to manage their stress independently"
+            },
+            "answer": "C",
+            "note": "Addressing stress openly and finding solutions together strengthens the partnership and ensures both partners feel supported and understood."
+        },
+        {
+            "question": "How do you celebrate each other’s achievements and milestones in your relationship?",
+            "options": {
+                "A": "We celebrate each achievement with personalized gestures that show how much they mean to us",
+                "B": "We have special traditions or rituals for celebrating milestones",
+                "C": "We acknowledge achievements with thoughtful words and occasional gifts",
+                "D": "We celebrate together but often focus more on planning for future goals"
+            },
+            "answer": "A",
+            "note": "Personalized celebrations of achievements reinforce the value of each partner’s success and create lasting memories of support and appreciation."
+        }
+    ]
+}
