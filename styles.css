@@ -947,6 +947,7 @@ button:disabled{
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 3;
 }
 
 
@@ -978,7 +979,7 @@ button:disabled{
 }
 
 /* Responsive styles for small screens */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
 
     /* Welcome overlay for small screens */
     .welcome-overlay {
@@ -1000,7 +1001,8 @@ button:disabled{
         margin: 10px; /* Reduced margin */
         border-radius: 10px; /* Slightly smaller border radius */
         box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Smaller shadow */
-        max-width: 100%; /* Full width on small screens */
+        width: 98%; /* Full width on small screens */
+        height: 40vh;
     }
 
     /* Darker overlay with pseudo-element */
