@@ -1002,6 +1002,7 @@ button:disabled{
         box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Smaller shadow */
         width: 98%; /* Full width on small screens */
         height: 40vh;
+        overflow-y: auto;
     }
 
     /* Darker overlay with pseudo-element */
