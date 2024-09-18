@@ -746,10 +746,10 @@ button:disabled{
 
 .notification-div{
     position: absolute;
-    z-index: 2;
-    top: 20px;
+    z-index: 3;
+    top: 70px;
     right: 0;
-    background-color: transparent;
+    background-color: #fff;
     width: 40%;
     height: 60px;
     display: flex;
